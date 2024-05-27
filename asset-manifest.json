@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.21de8c26.css",
-    "main.js": "/portfolio/static/js/main.5fa5c692.js",
+    "main.js": "/portfolio/static/js/main.0509698b.js",
     "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
     "static/media/TalentBridge.png": "/portfolio/static/media/TalentBridge.9743a6884d4fc59956f2.png",
     "static/media/SeatBooking.png": "/portfolio/static/media/SeatBooking.479f805299968a26a994.png",
@@ -10,15 +10,15 @@
     "static/media/Inventory.png": "/portfolio/static/media/Inventory.1989cc8388b14d86430f.png",
     "static/media/AutoGuard.png": "/portfolio/static/media/AutoGuard.6cd9f152b77c65178ddf.png",
     "static/media/TourEasy.png": "/portfolio/static/media/TourEasy.11b870ed92a5f1eef2bb.png",
-    "static/media/Shivam_Garg_Resume.pdf": "/portfolio/static/media/Shivam_Garg_Resume.9eb4c86b8a77b731e8af.pdf",
+    "static/media/Shivam_Garg_Resume.pdf": "/portfolio/static/media/Shivam_Garg_Resume.5427e35a50a4c9d5b225.pdf",
     "static/media/avatar.svg": "/portfolio/static/media/avatar.09a21681cbbf6aa4f69f6c9f1b7282ce.svg",
     "index.html": "/portfolio/index.html",
     "main.21de8c26.css.map": "/portfolio/static/css/main.21de8c26.css.map",
-    "main.5fa5c692.js.map": "/portfolio/static/js/main.5fa5c692.js.map",
+    "main.0509698b.js.map": "/portfolio/static/js/main.0509698b.js.map",
     "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21de8c26.css",
-    "static/js/main.5fa5c692.js"
+    "static/js/main.0509698b.js"
   ]
 }
