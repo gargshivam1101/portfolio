@@ -26,7 +26,7 @@ function Projects() {
               imgPath={toureasy}
               isBlog={false}
               title="TourEasy"
-              description="A robust tour management platform, using Java, and autogonnerated code via Papyrus from models with proper OCL constraints, implementing user-friendly features like personalized profiles and efficient guide matching for an exceptional tour booking experience."
+              description="A robust tour management platform, using Java, and auto-generated code via Papyrus from models with proper OCL constraints, implementing user-friendly features like personalized profiles and efficient guide matching for an exceptional tour booking experience."
               ghLink="https://github.com/gargshivam1101/toureasy"
             />
           </Col>
