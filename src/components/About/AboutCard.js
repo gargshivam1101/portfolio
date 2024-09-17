@@ -8,14 +8,14 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi everyone, I am <span className="clr">Shivam Garg</span> currently
-            based in Canada.
+            Hi everyone, I am <span className="clr">Shivam Garg</span> and am
+            currently based in Canada.
             <br />I have completed{" "}
             <span className="clr">Master of Engineering</span> at Concordia
             University, Montreal.
-            <br />I have over two years of experience as a{" "}
+            <br />I have three years of experience as a{" "}
             <span className="clr">Software Development Engineer</span> in the
-            digital signing industry.
+            digital signing industry, and have solved 200+ LeetCode problems.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
