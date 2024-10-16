@@ -312,7 +312,16 @@ html {
   
   .myAvtar {
     justify-content: center !important;
-    padding-top: 9em !important;
+    padding-top: 5em !important;
+    display: flex;
+  }
+  
+  .myAvtar img {
+    width: 15rem; /* Adjusted size for a larger image */
+    height: 15rem; /* Adjusted size for a larger image */
+    border-radius: 50%; /* Makes the image fully rounded */
+    border: 4px solid white; /* White border */
+    object-fit: cover; /* Ensures the image covers the container without distortion */
   }
   
   @media (max-width: 767px) {
