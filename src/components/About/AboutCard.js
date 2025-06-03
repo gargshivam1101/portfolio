@@ -8,19 +8,28 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi everyone, I am <span className="clr">Shivam Garg</span> and am
-            currently based in Canada.
-            <br />I have completed{" "}
-            <span className="clr">Master of Engineering</span> at Concordia
-            University, Montreal.
-            <br />I have three years of experience as a{" "}
-            <span className="clr">Software Development Engineer</span> in the
-            digital signing industry, and have solved 200+ LeetCode problems.
-            <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
+            Hi, I am <span className="clr">Shivam Garg</span>, an Assistant
+            Manager at{" "}
+            <span className="clr">
+              <a
+                href="https://pursimple.com/restaurant/whitby/"
+                target="_blank"
+                style={{ color: "inherit", textDecoration: "none" }}
+              >
+                Pür & Simple (Whitby)
+              </a>
+            </span>
+            , where I lead daily operations, manage a dynamic team, and ensure a
+            seamless guest experience. Previously, I worked for 3 years as a
+            <span className="clr"> Software Development Engineer</span> in the
+            digital signing industry, building scalable solutions with Java,
+            Spring Boot, and Angular. I hold a{" "}
+            <span className="clr"> Master of Engineering</span> from Concordia
+            University and thrive in fast-paced environments where leadership,
+            problem-solving, and efficiency are key to success—no matter the
+            industry.
           </p>
-          <ul>
+          {/* <ul>
             <li className="about-activity">
               <ImPointRight /> Going to the gym
             </li>
@@ -30,7 +39,7 @@ function AboutCard() {
             <li className="about-activity">
               <ImPointRight /> Trekking and Travelling
             </li>
-          </ul>
+          </ul> */}
         </blockquote>
       </Card.Body>
     </Card>
